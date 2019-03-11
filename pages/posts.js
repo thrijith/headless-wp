@@ -9,7 +9,7 @@ export default class extends Component {
 	// Resolve promise and set initial props.
 	static async getInitialProps () {
 
-		const siteurl = 'pmcsk.test';
+		const siteurl = 'wp.test';
 
 		// Make request for posts.
 		const response = await axios.get( 'http://' + siteurl + '/wp-json/wp/v2/posts');

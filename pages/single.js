@@ -9,7 +9,7 @@ export default class extends Component {
 	// Resolve promise and set initial props.
 	static async getInitialProps( context ) {
 
-		const siteurl = 'pmcsk.test';
+		const siteurl = 'wp.test';
 
 		const slug = context.query.slug
 
