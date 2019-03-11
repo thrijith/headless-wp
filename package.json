@@ -1,0 +1,25 @@
+{
+  "name": "headless-wp",
+  "version": "1.0.0",
+  "description": "Headless Blog with WordPress CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thrijith/headless-wp.git"
+  },
+  "author": "Thrijith Thankachan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thrijith/headless-wp/issues"
+  },
+  "homepage": "https://github.com/thrijith/headless-wp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
