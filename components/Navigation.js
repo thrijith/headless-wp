@@ -3,7 +3,7 @@ import Link from 'next/link'
 export default () => (
 	<div id="navigation">
 		<Link href="/"><a href="/">Home</a></Link>
-		<Link href="/posts"><a href="/posts">Posts</a></Link>
+		<Link href="/posts"><a href="/posts">Blog</a></Link>
 		<style jsx>{`
 #navigation {
   overflow: hidden;
