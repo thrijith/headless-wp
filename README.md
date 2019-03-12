@@ -9,9 +9,9 @@
 * Use `npm run dev` while making changes / updates to the files.
 
 ### Additional Info
-[pages](pages) - Files inside this directory will be treated as pages.
-[routes.js](routes.js) - You can define all the routes here.
-[server.js](server.js) - Contains server setup information.
+* [pages](pages) - Files inside this directory will be treated as pages.
+* [routes.js](routes.js) - You can define all the routes here.
+* [server.js](server.js) - Contains server setup information.
  
 ### Demo
 [![View App Demo](https://i.imgur.com/oKTuuc0.png)](https://vimeo.com/322869705 "View App Demo")
